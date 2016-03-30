@@ -1,0 +1,74 @@
+Agriculture,agriculture,Yes,Business/Arts_and_Entertainment/Photography/Stock/Photographers/Nature/Agriculture
+Science/Agriculture
+Technology,technology,Yes,Science/Technology/Biomedical_Engineering
+Technology,technology,Yes,Science/Technology/Chemical_Engineering
+Technology,technology,Yes,Science/Technology/Energy
+Technology,technology,Yes,Science/Technology/Food_Science
+Technology,technology,Yes,Science/Technology/Materials
+Technology,technology,Yes,Science/Technology/Metrology
+Technology,technology,Yes,Science/Technology/Mining
+Technology,technology,Yes,Science/Technology/Nanotechnology
+Technology,technology,Yes,Science/Technology/Pyrotechnics
+Technology,technology,Yes,Science/Technology/Structural_Engineering
+Education," Education",Yes,Reference/Education/Conferences
+Education," Education",Yes,Reference/Education/Directories
+Education," Education",Yes,Reference/Education/Distance_Learning
+Education," Education",Yes,Reference/Education/Early_Childhood
+Education," Education",Yes,Reference/Education/Educational_Testing
+Education," Education",Yes,Reference/Education/International
+Education," Education",Yes,Reference/Education/Journals
+Education," Education",Yes,Reference/Education/Methods_and_Theories
+Health,Health,Yes,Health/Addictions
+Health,Health,Yes,Health/Aging
+Health,Health,Yes,Health/Alternative
+Health,Health,Yes,Health/Animal
+Health,Health,Yes,Health/Beauty
+Health,Health,Yes,Health/Child_Health
+Health,Health,Yes,Health/Conditions_and_Diseases
+Health,Health,Yes,Health/Conferences
+Health,Health,Yes,Health/Dentistry
+Health,Health,Yes,Health/Directories
+Health,Health,Yes,Health/Education
+Health,Health,Yes,Health/Fitness
+Health,Health,Yes,Health/Home_Health
+Health,Health,Yes,Health/Medicine
+Health,Health,Yes,Health/Men's_Health
+Health,Health,Yes,Health/Mental_Health
+Health,Health,Yes,Health/Nursing
+Health,Health,Yes,Health/Nutrition
+Health,Health,Yes,Health/Occupational_Health_and_Safety
+Health,Health,Yes,Health/Pharmacy
+Health,Health,Yes,Health/Public_Health_and_Safety
+Health,Health,Yes,Health/Senior_Health
+Health,Health,Yes,Health/Women's_Health
+
+
+Education," Education",Yes,Arts/Architecture/Education
+Education," Education",Yes,Arts/Education/Learning_Resources
+Education," Education",Yes,Arts/Education/Organizations
+Education," Education",Yes,Arts/Education/Publications
+Education," Education",Yes,Arts/Education/Schools_and_Academies
+Education," Education",Yes,Arts/Performing_Arts/Acting/Education
+Education," Education",Yes,Arts/Visual_Arts/Education
+Education," Education",Yes,Business/Education_and_Training/Education
+Education," Education",Yes,Computers/Education
+Education," Education",Yes,Health/Education
+Education," Education",Yes,Health/Medicine/Education
+Education," Education",Yes,Health/Nursing/Education
+Education," Education",Yes,News/Journalism/Education
+Education," Education",Yes,Reference/Education
+Education," Education",Yes,Science/Agriculture/Education
+Education," Education",Yes,Science/Astronomy/Education
+Education," Education",Yes,Science/Biology/Biochemistry_and_Molecular_Biology/Education
+Education," Education",Yes,Science/Biology/Bioinformatics/Education
+Education," Education",Yes,Science/Biology/Botany/Education
+Education," Education",Yes,Science/Biology/Ecology/Education
+Education," Education",Yes,Science/Biology/Genetics/Education
+Education," Education",Yes,Science/Biology/Immunology/Education
+Education," Education",Yes,Science/Biology/Microbiology/Education
+Education," Education",Yes,Science/Biology/Neurobiology/Education
+Education," Education",Yes,Science/Chemistry/Education
+
+Agriculture,agriculture,Yes,Business/Food_and_Related_Products/Sweeteners/Sugar/Agriculture
+Agriculture,agriculture,Yes,Science/Environment/Agriculture
+Technology,technology,Yes,Business/Textiles_and_Nonwovens/Textiles/Resources/Articles_and_Studies/Technology

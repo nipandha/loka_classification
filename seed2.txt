@@ -1,0 +1,20 @@
+Compost,Compost,Yes,Home/Gardening/Soil_and_Additives/Compost
+Herbal,Herbal,Yes,Shopping/Health/Beauty/Bath_and_Body/Soap/Handmade/Herbal
+Cows,Cows,Yes,Kids_and_Teens/School_Time/Science/Living_Things/Animals/Mammals/Cows
+Gardens,Gardens,Yes,Home/Gardening/Gardens
+Gardening,Gardening,Yes,Home/Gardening
+Infrastructure,Infrastructure,Yes,Business/Transportation_and_Logistics/Rail/Products/Permanent_Way/Infrastructure
+Basketry,Basketry,Yes,Arts/Crafts/Basketry
+Art,Art,Yes,Arts/Genres/Science_Fiction_and_Fantasy/Themes/Fantasy_Races_and_Creatures/Bestiaries/Art
+Metallurgy,Metallurgy,Yes,Science/Technology/Materials/Testing/Instruments_and_Supplies/Metallurgy
+Rain,Rain,Yes,Home/Gardening/Gardens/Rain
+Shipping,Shipping,Yes,"Regional/Asia/South_Korea/Business_and_Economy/Shipping,_Storage,_and_Logistics/Shipping"
+Transport,Transport,Yes,Business/Agriculture_and_Forestry/Livestock/Services/Transport
+Banana,Banana,Yes,Regional/Oceania/Australia/Queensland/Localities/B/Banana
+
+Seed,Seed Grain Storage Systems,No,Business/Agriculture_and_Forestry/Field_Crops/Seed/Equipment_and_Supplies
+Handmade,Handmade Paper,No,Business/Textiles_and_Nonwovens/Textiles/Carpets/Handmade
+Handmade,Handmade Paper,No,Regional/Europe/United_Kingdom/Business_and_Economy/Shopping/Gifts/Cards/Handmade
+Forecasting,Forecasting Rain - Neem,No,Kids_and_Teens/School_Time/Science/The_Earth/The_Atmosphere/Weather/Forecasting
+Traditions,Living Traditions - How Do We Preserve Them,No,Society/Religion_and_Spirituality/Christianity/Denominations/Moravian_Church/Traditions
+Weaving,Palm and Coconut Leaf Mat Weaving Machine,No,Arts/Crafts/Textiles/Weaving
